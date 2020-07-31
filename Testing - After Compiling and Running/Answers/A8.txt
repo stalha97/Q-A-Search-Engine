@@ -1,0 +1,1 @@
+OS is an important piece of software that provides an intermediate between users and hardware.

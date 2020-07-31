@@ -1,0 +1,1 @@
+the root must have larger value than left child AND smaller value than the right child

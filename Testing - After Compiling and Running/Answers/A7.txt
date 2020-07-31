@@ -1,0 +1,1 @@
+Array provides fast access to elements, which can be used for simple searching, especially in binary searching

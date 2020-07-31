@@ -1,0 +1,1 @@
+avl is a balanced tree where the balance factor of each node must remain between -1, 0, 1 in order for the tree to be balanced.

@@ -1,0 +1,1 @@
+Virtual memory is a memory management technique for letting processes execute outside of memory. This is very useful especially when an executing program cannot fit in the physical memory.

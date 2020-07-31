@@ -1,0 +1,1 @@
+In a Time-Sharing system, the CPU executes multiple jovs by switching among them, also known as multitasking. This process happens so fast that users can interact with each program while it is running

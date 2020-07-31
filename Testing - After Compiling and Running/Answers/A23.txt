@@ -1,0 +1,1 @@
+1. Discrete Signal   2.Continous Signal  3. Periodic  4. Aperiodic

@@ -1,0 +1,1 @@
+In electronics, a signal is an electric current or electromagnetic field used to convey data from one place to another. The simplest form of singal is a direct current (DC)

@@ -1,0 +1,1 @@
+The amplitude scaling is performed by multiplying the amplitude of the signal by constant. Similarly time scaling is performed by multiplying the variable time by constant

@@ -1,0 +1,1 @@
+A device with infinite internal resistance.

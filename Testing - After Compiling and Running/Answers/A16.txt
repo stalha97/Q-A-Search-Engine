@@ -1,0 +1,1 @@
+SMP is a short form of Symmetric Multi Processing. It is the most common type of multi-processor systems. In this system, each process runs an identical copy of the operating system, and these copies communicate with one another as needed.

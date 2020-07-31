@@ -1,0 +1,1 @@
+Insertion- Add a new data item in given collection of data items........Deletion- Delete an existing data item from the given collection.....Traversal- Access each data item exactly once so that it can be processed......Searching- Find out the location of data item if it exists.........Sorting- Arranging the data in some order, Ascending or descending.

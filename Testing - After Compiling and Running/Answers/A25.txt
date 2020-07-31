@@ -1,0 +1,1 @@
+DFT stands for discrete fourier transform. It converts a finite list of equally spaced samples of a function into the list of coefficients of a finite combination of complex sinusoidal.

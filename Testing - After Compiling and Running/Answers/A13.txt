@@ -1,0 +1,1 @@
+Operating systems exist for two main purposes.One is that it is designed to make sure a computer system performs well by managing its computational activities. Another is that it provides an environment for the development and execution of programs.
